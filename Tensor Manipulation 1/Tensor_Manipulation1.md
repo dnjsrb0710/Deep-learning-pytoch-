@@ -183,4 +183,4 @@ indices=tensor([1, 1]))
 max에 dim 인자를 주면 argmax도 함께 리턴한다. 첫번째 열에서 3의 인덱스는 1이었다. 두번째 열에서 4의 인덱스는 1이었다. 그러므로 argmax=[1, 1]이 리턴된다.
 
 
-### [전체 코드 보기](C:\Deep-learning-pytoch-\Tensor Manipulation 1\tensor_manipulation1.ipynb)
+### [전체 코드 보기](https://github.com/dnjsrb0710/Deep-learning-pytoch-/blob/master/Tensor%20Manipulation%201/tensor_manipulation1.ipynb)
