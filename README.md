@@ -3,7 +3,7 @@
 본 repository는 'PyTorch로 시작하는 딥 러닝 입문'  wikidocs를 보고 공부한 내용과 실습결과물을 정리한 것입니다.
 >## 텐서 조작하기(Tensor Manipulation)1
 > #### 텐서 선언하기, 행렬 곱셈 및 다른 기본적인 오퍼레이션들에 대해서 공부합니다.
->>[!정리 및 실습코드](C:\Deep-learning-pytoch-\Tensor Manipulation 1)
+>>[!정리 및 실습코드](https://github.com/dnjsrb0710/Deep-learning-pytoch-/blob/master/Tensor%20Manipulation%201/Tensor_Manipulation1.md)
 
 <br>
 
